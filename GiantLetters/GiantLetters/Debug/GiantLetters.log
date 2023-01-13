@@ -1,0 +1,3 @@
+﻿  GiantLetters.cpp
+C:\Users\DELL\source\repos\GiantLetters\GiantLetters\GiantLetters.cpp(605,22): warning C4018: '<': signed/unsigned mismatch
+  GiantLetters.vcxproj -> C:\Users\DELL\source\repos\GiantLetters\Debug\GiantLetters.exe
